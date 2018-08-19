@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="1C077F6B-1625-4277-ABA4-96A105B6FC16" version="0">
+	<info>
+		<title>Examen (leçon 1 - unité 1)</title>
+		<description/>
+	</info>
+	<files index="id19" thumbnail="id15" totalSize="2143798">
+		<file id="id0">data/audios/snd-77d4ea8562a513c4943d9a56574193ac53e0b115.mp3</file>
+		<file id="id1">data/audios/snd-94ef6d570207d31a268b7e36020dac3fb20d565d.mp3</file>
+		<file id="id2">data/browsersupport.js</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-65218f0add2ecf615b5875c047eb2b800212ea48.gif</file>
+		<file id="id10">data/images/img-7e95473b1c06665de34ef611eed6be47d9b363e1.jpg</file>
+		<file id="id11">data/images/img-a52a94b3dff26a736279070cffa3a32fdbc3b74b.jpg</file>
+		<file id="id12">data/images/img-cf5ace81ec1a0a129caa32d40c54d9e6508f298e.jpg</file>
+		<file id="id13">data/ismplayer/app_store2x.png</file>
+		<file id="id14">data/ismplayer/play.svg</file>
+		<file id="id15">data/ismplayer/preview.png</file>
+		<file id="id16">data/ismplayer/style.css</file>
+		<file id="id17">data/ismplayer/style_mini.css</file>
+		<file id="id18">data/player.js</file>
+		<file id="id19">index.html</file>
+		<file id="id20">ismplayer.html</file>
+		<file id="id21">preview.png</file>
+	</files>
+</presentation>
+
